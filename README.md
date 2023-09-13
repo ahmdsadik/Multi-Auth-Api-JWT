@@ -1,6 +1,10 @@
 # Multi-Auth-Api-JWT
 Multi-Authentication API Using JWT with multi Guards [ Users - Admins - Employees ]
 
+Install the dependencies:
+
+    composer install
+
 Run the following commands:
 
     php artisan key:generate
